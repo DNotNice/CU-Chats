@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504259865018",
+    "project_id": "cuchats-a2bcb",
+    "storage_bucket": "cuchats-a2bcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504259865018:android:65f7a970f47d0d542a5583",
+        "android_client_info": {
+          "package_name": "com.example.cuchats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504259865018-3941mqnvft381hdsld90ngee20ud5q1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxeWUrWJIipRuhXqtlxSyf3qBC_SPwJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504259865018-3941mqnvft381hdsld90ngee20ud5q1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
